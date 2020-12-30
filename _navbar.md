@@ -1,0 +1,3 @@
+- [Home](/)
+- [About](./README.md)
+- [Blog](./2020)
