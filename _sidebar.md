@@ -6,6 +6,12 @@
   - [Kubernetes]()
   - [OAM/KubeVela]()
 
+- 语言
+  - [Golang]()
+    - 每天学一点 Go 语言
+
+
+
 - By Year
   - 2010
     - [1-1-1-日期-date-空值-null.md](2010/1-1-1-日期-date-空值-null.md)
@@ -216,11 +222,7 @@
 - 云计算
   - [OpenStack]
 
-- 语言
-  - [Golang]()
-    - 每天学一点 Go 语言
-    
-    
+
 - 开源
 
 - 技术细沙
