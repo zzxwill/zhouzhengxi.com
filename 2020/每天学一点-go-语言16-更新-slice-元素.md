@@ -7,7 +7,7 @@ date: "2020-08-24"
 
 方案一：直接操作 slice 的元素
 
-```go
+```
 package main
 
 import "fmt"
