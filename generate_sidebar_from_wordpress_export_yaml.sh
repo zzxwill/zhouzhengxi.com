@@ -1,7 +1,7 @@
-for i in 2014 2015 2018 2019 2020
+for i in 2020 2019 2018 2015 2014 2012 2011 2010
 do
         cd $i
 	echo "\n  - $i"
-        ls | awk '{print "    - ["$1"](/$i/"$1")"}'
+        ls | awk -v year=$i '{print "    - [" $1 "](" year "/" $1 ")"}'
         cd ..
 done
