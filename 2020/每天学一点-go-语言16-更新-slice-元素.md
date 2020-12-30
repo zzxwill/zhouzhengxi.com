@@ -17,7 +17,6 @@ type Response struct {
 }
 
 func main() {
-  responses := []Response{{Code: 200}, {Code: 500}}
   var newCode = 400
   for i, _ := range responses {
     responses[i].Code = newCode
@@ -37,7 +36,6 @@ type Response struct {
 }
 
 func main() {
-  responses := []Response{{Code: 200}, {Code: 500}}
   var newCode = 400
   for i, _ := range responses {
     responses[i].Code = newCode
