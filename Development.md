@@ -11,5 +11,12 @@ These are the plugins which are used in this site.
   折叠左侧菜单
 
 
+## Docsify tips
+- 为文章添加日期
+  [index.html](./index.html) 里添加日期格式：
+  
+  `formatUpdated: '{MM}/{DD}/{YYYY} {HH}:{mm}:{ss}',`
+
+  在 Markdown 里通过 `{docsify-updated}` 使用，可以查看范例——[每天学一点-go-语言043-Getwd.md](./2021/每天学一点-go-语言043-Getwd.md)
 
 
