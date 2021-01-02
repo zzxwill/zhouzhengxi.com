@@ -20,3 +20,5 @@ These are the plugins which are used in this site.
   在 Markdown 里通过 `{docsify-updated}` 使用，可以查看范例——[每天学一点-go-语言043-Getwd.md](./2021/每天学一点-go-语言043-Getwd.md)
 
 
+- 页面无法滑动
+  页面超出一屏，无法上线滑动，解决方法，参加 [issue](https://github.com/docsifyjs/docsify/issues/411)。

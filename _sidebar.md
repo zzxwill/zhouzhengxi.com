@@ -1,4 +1,4 @@
-- 云原生
+- 云原生技术
   - 每天学一点 Kubernetes
     - [022-Yaml-中三个横杠](./2021/每天学一点-Kubernetes-022-Yaml-中三个横杠.md)
     - [021-Deployment(1)](./2021/每天学一点-Kubernetes-021-Deployment(1).md)
@@ -20,9 +20,9 @@
     - [每天学一点-kubernetes-7-controller-manager-不厌其烦.md](2020/每天学一点-kubernetes-7-controller-manager-不厌其烦.md)
     - [每天学一点-kubernetes-8-endpoint-namespace-controller.md](2020/每天学一点-kubernetes-8-endpoint-namespace-controller.md)
     - [每天学一点-kubernetes-9-node-上有啥玩意儿？.md](2020/每天学一点-kubernetes-9-node-上有啥玩意儿？.md)
-  - [OAM/KubeVela]()
+  - OAM/KubeVela
 
-- 语言
+- 开发语言
   - 每天学一点 Go 语言
     - [044-实时打印命令行结果](./2021/每天学一点-go-语言044-实时打印命令行结果.md)
     - [043-Getwd](./2021/每天学一点-go-语言043-Getwd.md)
