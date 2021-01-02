@@ -1,9 +1,29 @@
 - 云原生
-  - [Kubernetes]()
+  - 每天学一点 Kubernetes
+    - [022-Yaml-中三个横杠](./2021/每天学一点-Kubernetes-022-Yaml-中三个横杠.md)
+    - [021-Deployment(1)](./2021/每天学一点-Kubernetes-021-Deployment(1).md)
+    - [study-kubernetes-every-day-1.md](2020/study-kubernetes-every-day-1.md)
+    - [study-kubernetes-every-day-4.md](2020/study-kubernetes-every-day-4.md)
+    - [每天学一点-kubernetes-10-附加-扩展组件.md](2020/每天学一点-kubernetes-10-附加-扩展组件.md)
+    - [每天学一点-kubernetes-11-events.md](2020/每天学一点-kubernetes-11-events.md)
+    - [每天学一点-kubernetes-12-pod-pause-容器.md](2020/每天学一点-kubernetes-12-pod-pause-容器.md)
+    - [每天学一点-kubernetes-13-访问-svc.md](2020/每天学一点-kubernetes-13-访问-svc.md)
+    - [每天学一点-kubernetes-14-简单-kubernets-client.md](2020/每天学一点-kubernetes-14-简单-kubernets-client.md)
+    - [每天学一点-kubernetes-15-kubernetes-不是-paas.md](2020/每天学一点-kubernetes-15-kubernetes-不是-paas.md)
+    - [每天学一点-kubernetes-16-whats-new-in-kubernetes-1-19-1.md](2020/每天学一点-kubernetes-16-whats-new-in-kubernetes-1-19-1.md)
+    - [每天学一点-kubernetes-17-dashboard-部署运行原来很简单.md](2020/每天学一点-kubernetes-17-dashboard-部署运行原来很简单.md)
+    - [每天学一点-kubernetes-18-metric-的几点想法.md](2020/每天学一点-kubernetes-18-metric-的几点想法.md)
+    - [每天学一点-kubernetes-19-kubectl-run-不能创建-deploymen-了.md](2020/每天学一点-kubernetes-19-kubectl-run-不能创建-deploymen-了.md)
+    - [每天学一点-kubernetes-20-skaffold-真强大.md](2020/每天学一点-kubernetes-20-skaffold-真强大.md)
+    - [每天学一点-kubernetes-5-etcd-节点数为什么是奇数？.md](2020/每天学一点-kubernetes-5-etcd-节点数为什么是奇数？.md)
+    - [每天学一点-kubernetes-6-kube-scheduler-可以有多个.md](2020/每天学一点-kubernetes-6-kube-scheduler-可以有多个.md)
+    - [每天学一点-kubernetes-7-controller-manager-不厌其烦.md](2020/每天学一点-kubernetes-7-controller-manager-不厌其烦.md)
+    - [每天学一点-kubernetes-8-endpoint-namespace-controller.md](2020/每天学一点-kubernetes-8-endpoint-namespace-controller.md)
+    - [每天学一点-kubernetes-9-node-上有啥玩意儿？.md](2020/每天学一点-kubernetes-9-node-上有啥玩意儿？.md)
   - [OAM/KubeVela]()
 
 - 语言
-  - 每天学一点-go-语言
+  - 每天学一点 Go 语言
     - [044-实时打印命令行结果](./2021/每天学一点-go-语言044-实时打印命令行结果.md)
     - [043-Getwd](./2021/每天学一点-go-语言043-Getwd.md)
     - [042-转换为interface{}](./2021/每天学一点-go-语言042-%5B%5Dinterface%7B%7D转换.md)
