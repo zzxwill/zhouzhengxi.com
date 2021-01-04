@@ -1,4 +1,4 @@
-# 每天学一点-Kubernetes-21-Deployment(1)
+# 每天学一点-Kubernetes-021-Deployment(1)-新Pod谨慎操作DML
 
 Posted at {docsify-updated}
 
