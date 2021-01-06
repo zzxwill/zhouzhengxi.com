@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [24-Deployment(3)--触发更新的条件](./2021/每天学一点-Kubernetes-024-Deployment(3)--触发更新的条件.md)
     - [023-Deployment(2)--升级策略](./2021/每天学一点-Kubernetes-023-Deployment(2)--升级策略.md)
     - [022-Yaml-中三个横杠](./2021/每天学一点-Kubernetes-022-Yaml-中三个横杠.md)
     - [021-Deployment(1)](./2021/每天学一点-Kubernetes-021-Deployment(1).md)
