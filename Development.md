@@ -6,9 +6,38 @@
 
 These are the plugins which are used in this site.
 
-- [docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse)
+- 折叠左侧菜单
+  [docsify-sidebar-collapse](https://github.com/iPeng6/docsify-sidebar-collapse)
   
-  折叠左侧菜单
+- 添加搜索
+  ```
+  search: {
+        noData: {
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': 'Search'
+        }
+      },
+  ```
+  
+  注释`<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>`;
+  添加`<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>`。
+  
+  如果不注释，左上角会出现两个搜索框。
+  ![](./resources/img/search_issue.jpg)
+  
+- Share
+  ```
+  share: {
+        facebook: true,
+        twitter: true,
+        telegram: true,
+      },
+  ```
+  <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
+
 
 
 ## Docsify tips
@@ -18,6 +47,9 @@ These are the plugins which are used in this site.
   `formatUpdated: '{MM}/{DD}/{YYYY} {HH}:{mm}:{ss}',`
 
   在 Markdown 里通过 `{docsify-updated}` 使用，可以查看范例——[每天学一点-go-语言043-Getwd.md](./2021/每天学一点-go-语言043-Getwd.md)
+
+  updated @2021.1.15
+  这个方法是错误的，所有的时间都会被更新为最后一次 commit 的时间
 
 
 - 页面无法滑动
