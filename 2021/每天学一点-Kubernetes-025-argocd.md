@@ -1,6 +1,6 @@
 # 每天学一点-Kubernetes-025-argocd.md
 
-Posted at 2021.1.13
+Posted at Jan. 13 2021
 
 ---
 

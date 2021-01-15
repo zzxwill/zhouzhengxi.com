@@ -1,5 +1,5 @@
 # 每天学一点-go-语言050-type定义和别称.md
-Posted at Jan 15 2020
+Posted at Jan 15 2021
 
 ---
 
