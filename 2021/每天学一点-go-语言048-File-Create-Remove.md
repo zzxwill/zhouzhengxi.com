@@ -5,7 +5,7 @@ Posted at {docsify-updated}
 删除文件
 
 
-- Create
+- os.Create
 
 ```go
 func Create(name string) (*File, error) {

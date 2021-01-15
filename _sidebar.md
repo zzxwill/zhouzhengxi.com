@@ -1,9 +1,10 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-025-argocd](./2021/每天学一点-Kubernetes-025-argocd.md)
     - [24-Deployment(3)--触发更新的条件](./2021/每天学一点-Kubernetes-024-Deployment(3)--触发更新的条件.md)
     - [023-Deployment(2)--升级策略](./2021/每天学一点-Kubernetes-023-Deployment(2)--升级策略.md)
     - [022-Yaml-中三个横杠](./2021/每天学一点-Kubernetes-022-Yaml-中三个横杠.md)
-    - [021-Deployment(1)](./2021/每天学一点-Kubernetes-021-Deployment(1).md)
+    - [021-Deployment(1)](./2021/每天学一点-Kubernetes-021-Deployment(1)-新Pod谨慎操作DML.md)
     - [study-kubernetes-every-day-1.md](2020/study-kubernetes-every-day-1.md)
     - [study-kubernetes-every-day-4.md](2020/study-kubernetes-every-day-4.md)
     - [每天学一点-kubernetes-10-附加-扩展组件.md](2020/每天学一点-kubernetes-10-附加-扩展组件.md)
@@ -26,6 +27,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言050-type定义和别称.md](./2021/每天学一点-go-语言050-type定义和别称.md)
     - [049-如何使用环境变量](./2021/每天学一点-go-语言049-如何使用环境变量.md)
     - [048-File-Create-Remove](./2021/每天学一点-go-语言048-File-Create-Remove.md)
     - [047-正则表达式](./2021/每天学一点-go-语言047-正则表达式.md)
