@@ -24,9 +24,12 @@
     - [每天学一点-kubernetes-8-endpoint-namespace-controller.md](2020/每天学一点-kubernetes-8-endpoint-namespace-controller.md)
     - [每天学一点-kubernetes-9-node-上有啥玩意儿？.md](2020/每天学一点-kubernetes-9-node-上有啥玩意儿？.md)
   - OAM/KubeVela
+  
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-053-继承](./2021/每天学一点-go-语言-053-继承.md)
+    - [每天学一点-go-语言-052-接口与实现](./2021/每天学一点-go-语言-052-接口与实现.md)
     - [每天学一点-go-语言-051-bool转换string](./2021/每天学一点-go-语言-051-bool转换string.md)
     - [每天学一点-go-语言050-type定义和别称.md](./2021/每天学一点-go-语言050-type定义和别称.md)
     - [049-如何使用环境变量](./2021/每天学一点-go-语言049-如何使用环境变量.md)
