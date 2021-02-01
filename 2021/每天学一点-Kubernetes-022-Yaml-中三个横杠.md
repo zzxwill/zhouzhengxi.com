@@ -1,4 +1,4 @@
-# 每天学一点-Kubernetes-22-Yaml-中三个横杠.md
+# 每天学一点-Kubernetes-22-Yaml-中三个横杠
 
 Posted at {docsify-updated}
 

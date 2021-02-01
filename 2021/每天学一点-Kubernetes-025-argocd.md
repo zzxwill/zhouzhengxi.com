@@ -1,4 +1,4 @@
-# 每天学一点-Kubernetes-025-argocd.md
+# 每天学一点-Kubernetes-025-argocd
 
 Posted at Jan. 13 2021
 

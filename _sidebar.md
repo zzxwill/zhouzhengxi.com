@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-027-Pod删除](./2021/每天学一点-Kubernetes-027-Pod删除.md)
     - [每天学一点-Kubernetes-026-Ingress](./2021/每天学一点-Kubernetes-026-Ingress.md)
     - [每天学一点-Kubernetes-025-argocd](./2021/每天学一点-Kubernetes-025-argocd.md)
     - [24-Deployment(3)--触发更新的条件](./2021/每天学一点-Kubernetes-024-Deployment(3)--触发更新的条件.md)

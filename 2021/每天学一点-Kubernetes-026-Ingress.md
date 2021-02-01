@@ -1,4 +1,4 @@
-# 每天学一点-Kubernetes-026-Ingress.md
+# 每天学一点-Kubernetes-026-Ingress
 
 Posted at Jan 25 2021
 

@@ -1,4 +1,4 @@
-# 024-Deployment(3)--触发更新的条件.md
+# 024-Deployment(3)--触发更新的条件
 
 Posted at {docsify-updated}
 
