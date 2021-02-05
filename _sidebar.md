@@ -1,5 +1,7 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-029-Kind安装老版本Kubernetes](./2021/每天学一点-Kubernetes-029-Kind安装老版本Kubernetes.md)
+    - [每天学一点-Kubernetes-028-学习Keptn](./2021/每天学一点-Kubernetes-028-学习Keptn.md)
     - [每天学一点-Kubernetes-027-Pod删除](./2021/每天学一点-Kubernetes-027-Pod删除.md)
     - [每天学一点-Kubernetes-026-Ingress](./2021/每天学一点-Kubernetes-026-Ingress.md)
     - [每天学一点-Kubernetes-025-argocd](./2021/每天学一点-Kubernetes-025-argocd.md)
@@ -26,10 +28,12 @@
     - [每天学一点-kubernetes-8-endpoint-namespace-controller](2020/每天学一点-kubernetes-8-endpoint-namespace-controller.md)
     - [每天学一点-kubernetes-9-node-上有啥玩意儿？](2020/每天学一点-kubernetes-9-node-上有啥玩意儿？.md)
   - OAM/KubeVela
-  
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-065-merge两个map](./2021/每天学一点-go-语言-065-merge两个map.md)
+    - [每天学一点-go-语言-064-map循环遍历](./2021/每天学一点-go-语言-064-map循环遍历.md)
+    - [每天学一点-go-语言-063-定义多个变量](./2021/每天学一点-go-语言-063-定义多个变量.md)
     - [每天学一点-go-语言-062-go-template](./2021/每天学一点-go-语言-062-go-template.md)
     - [每天学一点-go-语言-060-slice去部分元素](./2021/每天学一点-go-语言-060-slice去部分元素.md)
     - [每天学一点-go-语言-059-survey.Input](./2021/每天学一点-go-语言-059-survey.Input.md)
