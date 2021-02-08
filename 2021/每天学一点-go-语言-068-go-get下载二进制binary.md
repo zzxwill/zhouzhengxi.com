@@ -1,6 +1,6 @@
 # 每天学一点-go-语言-068-go-get下载二进制binary
 
-Posted on Feb 7 2021
+Posted on Feb 5 2021
 
 ---
 

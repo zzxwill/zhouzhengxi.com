@@ -75,8 +75,20 @@ const workloadMenuList = workloadList?.map((i) => (
 
 https://zh-hans.reactjs.org/docs/lists-and-keys.html#basic-list-component
 
+- 判断 array （list）类型并且不为空
 
+```typescript
+if (Array.isArray(array) && array.length) {
+    // array exists and is not empty
+}
+```
 
+- 字典定义
+
+```typescript
+var d = {}
+
+```
 
 ## AntD
 
@@ -98,6 +110,10 @@ https://010x.ant.design/components/layout/
 
 分割线
 下拉列表：[Dropdown](https://ant.design/components/dropdown/)
+
+- Dropdown
+
+DropDown 下面可以是 <a/> 也可以是 <Button/>
 
 
 
