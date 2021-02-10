@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-030-Dockerfile-COPY-改变文件owner](./2021/每天学一点-Kubernetes-030-Dockerfile-COPY-改变文件owner.md)
     - [每天学一点-Kubernetes-029-Kind安装老版本Kubernetes](./2021/每天学一点-Kubernetes-029-Kind安装老版本Kubernetes.md)
     - [每天学一点-Kubernetes-028-学习Keptn](./2021/每天学一点-Kubernetes-028-学习Keptn.md)
     - [每天学一点-Kubernetes-027-Pod删除](./2021/每天学一点-Kubernetes-027-Pod删除.md)
