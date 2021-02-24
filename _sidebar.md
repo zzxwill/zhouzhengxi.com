@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-031-Immutable-ConfigMap](./2021/每天学一点-Kubernetes-031-Immutable-ConfigMap.md)
     - [每天学一点-Kubernetes-030-Dockerfile-COPY-改变文件owner](./2021/每天学一点-Kubernetes-030-Dockerfile-COPY-改变文件owner.md)
     - [每天学一点-Kubernetes-029-Kind安装老版本Kubernetes](./2021/每天学一点-Kubernetes-029-Kind安装老版本Kubernetes.md)
     - [每天学一点-Kubernetes-028-学习Keptn](./2021/每天学一点-Kubernetes-028-学习Keptn.md)
@@ -105,9 +106,29 @@
     - [2-study-golang-every-day-2](2020/study-golang-every-day-2.md)
     - [1-study-golang-every-day-1](2020/study-golang-every-day-1.md)
 
+
 - 开发
   - [本站涉及的 Docsify 开发](./Development.md)
 
+- 云计算
+  - [OpenStack]
+
+- 开源
+
+- 技术细沙
+  - [写了两天React](./2021/写了两天React.md)
+  - S2I
+    - [S2I学习和思考](./2021/S2I学习和思考.md)
+    - [学习Cloud-Native-Buildpacks](./2021/学习Cloud-Native-Buildpacks.md)
+    - [学习OpenShift-source-to-image](./2021/学习OpenShift-source-to-image.md)
+  
+
+- 随笔
+
+- 近期沉湎
+
+- [关于](./README.md)
+  
 - Archive By Year
   - 2020
     - [learn-k8s-every-day-2](2020/learn-k8s-every-day-2.md)
@@ -309,17 +330,4 @@
     - [设置下拉列表不可选disableddisabled](2010/设置下拉列表不可选disableddisabled.md)
     - [博客架设成功，感谢pear-tasty-提供空间](2010/博客架设成功，感谢pear-tasty-提供空间.md)
     - [某高校官网上雷人的图片](2010/某高校官网上雷人的图片.md)
-
-- 云计算
-  - [OpenStack]
   
-- 开源
-
-- 技术细沙
-  - [写了两天React](./2021/写了两天React.md)
-
-- 随笔
-
-- 近期沉湎
-
-- [关于](./README.md)
