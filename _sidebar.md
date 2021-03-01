@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-032-Kind缩写](./2021/每天学一点-Kubernetes-033-Kind缩写.md)
     - [每天学一点-Kubernetes-031-Immutable-ConfigMap](./2021/每天学一点-Kubernetes-031-Immutable-ConfigMap.md)
     - [每天学一点-Kubernetes-030-Dockerfile-COPY-改变文件owner](./2021/每天学一点-Kubernetes-030-Dockerfile-COPY-改变文件owner.md)
     - [每天学一点-Kubernetes-029-Kind安装老版本Kubernetes](./2021/每天学一点-Kubernetes-029-Kind安装老版本Kubernetes.md)
@@ -33,6 +34,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-074-ioutil.ReadDir](./2021/每天学一点-go-语言-074-ioutil.ReadDir.md)
     - [每天学一点-go-语言-073-命令行 flag 设置](./2021/每天学一点-go-语言-073-命令行flag设置.md)
     - [每天学一点-go-语言-072-新版本1.16的embed好不好用](./2021/每天学一点-go-语言-072-新版本1.16的embed好不好用.md)
     - [每天学一点-go-语言-071-cli-flag设置](./2021/每天学一点-go-语言-071-cli-flag设置.md)
