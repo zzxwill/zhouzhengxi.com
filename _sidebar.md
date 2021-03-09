@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-033-namespace的namespace必填](./2021/每天学一点-Kubernetes-033-namespace的namespace必填.md)
     - [每天学一点-Kubernetes-032-Kind缩写](./2021/每天学一点-Kubernetes-033-Kind缩写.md)
     - [每天学一点-Kubernetes-031-Immutable-ConfigMap](./2021/每天学一点-Kubernetes-031-Immutable-ConfigMap.md)
     - [每天学一点-Kubernetes-030-Dockerfile-COPY-改变文件owner](./2021/每天学一点-Kubernetes-030-Dockerfile-COPY-改变文件owner.md)
