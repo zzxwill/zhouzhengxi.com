@@ -13,4 +13,4 @@ Events:
   Warning  cannot store capability in ConfigMap  31s (x19 over 17m)  WorkloadDefinition  failed to generate OpenAPI v3 JSON schema for capability invalid-wd1: capability invalid-wd1 doesn't contain section `parmeter`
 ```
 
-event 是有保存时限的，不过如果一致打印，也没关系，x19 over 17m
+event 是有保存时限的，不过如果一直打印，也没关系，x19 over 17m
