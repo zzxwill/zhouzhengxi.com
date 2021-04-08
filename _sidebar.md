@@ -1,6 +1,7 @@
 - 云原生技术
   - 每天学一点 Kubernetes
-    - [每天学一点-Kubernetes-036-deployment-not-ready.md](./2021/每天学一点-Kubernetes-036-deployment-not-ready.md)
+    - [每天学一点-Kubernetes-037-kubebuilder-新版本生成文件说明](./2021/每天学一点-Kubernetes-037-kubebuilder-新版本生成文件说明.md)
+    - [每天学一点-Kubernetes-036-deployment-not-ready](2021/每天学一点-Kubernetes-036-deployment-not-ready.md)
     - [每天学一点-Kubernetes-035-CRD-event](./2021/每天学一点-Kubernetes-035-CRD-event.md)
     - [每天学一点-Kubernetes-034-controller-runtime-envtest](./2021/每天学一点-Kubernetes-034-controller-runtime-envtest.md)
     - [每天学一点-Kubernetes-033-namespace的namespace必填](./2021/每天学一点-Kubernetes-033-namespace的namespace必填.md)
