@@ -1,5 +1,8 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-036-deployment-not-ready.md](./2021/每天学一点-Kubernetes-036-deployment-not-ready.md)
+    - [每天学一点-Kubernetes-035-CRD-event](./2021/每天学一点-Kubernetes-035-CRD-event.md)
+    - [每天学一点-Kubernetes-034-controller-runtime-envtest](./2021/每天学一点-Kubernetes-034-controller-runtime-envtest.md)
     - [每天学一点-Kubernetes-033-namespace的namespace必填](./2021/每天学一点-Kubernetes-033-namespace的namespace必填.md)
     - [每天学一点-Kubernetes-032-Kind缩写](./2021/每天学一点-Kubernetes-033-Kind缩写.md)
     - [每天学一点-Kubernetes-031-Immutable-ConfigMap](./2021/每天学一点-Kubernetes-031-Immutable-ConfigMap.md)
@@ -35,6 +38,10 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-080-fmt占位符](./2021/每天学一点-go-语言-080-fmt占位符.md)
+    - [每天学一点-go-语言-079-copyright自动生成.md](./2021/每天学一点-go-语言-079-copyright自动生成.md)
+    - [每天学一点-go-语言-078-http-mock](./2021/每天学一点-go-语言-078-http-mock.md)
+    - [每天学一点-go-语言-077-该用哪个yaml库？](./2021/每天学一点-go-语言-077-该用哪个yaml库？.md)
     - [每天学一点-go-语言-076-data-race](./2021/每天学一点-go-语言-076-data-race.md)
     - [每天学一点-go-语言-075-本地Go多版本管理.md](./2021/每天学一点-go-语言-075-本地Go多版本管理.md)
     - [每天学一点-go-语言-074-ioutil.ReadDir](./2021/每天学一点-go-语言-074-ioutil.ReadDir.md)
@@ -127,7 +134,11 @@
     - [S2I学习和思考](./2021/S2I学习和思考.md)
     - [学习Cloud-Native-Buildpacks](./2021/学习Cloud-Native-Buildpacks.md)
     - [学习OpenShift-source-to-image](./2021/学习OpenShift-source-to-image.md)
-  
+  - Cloud Resource Orchestration | 云资源编排
+    - Terraform
+      - [Terraform JSON configuration file 如何配置 variables](./2021/Terraform-JSON-configuration-file如何配置variables.md)
+    - Crossplane
+    - Openstack Heat
 
 - 随笔
 
