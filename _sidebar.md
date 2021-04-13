@@ -40,6 +40,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-086-struct-里的函数-field](./2021/每天学一点-go-语言-086-struct-里的函数-field.md)
     - [每天学一点-go-语言-085-new-object](./2021/每天学一点-go-语言-085-new-object.md)
     - [每天学一点-go-语言-084-pkg-errors.md](./2021/每天学一点-go-语言-084-pkg-errors.md)
     - [每天学一点-Kubernetes-039-generic-secret](./2021/每天学一点-Kubernetes-039-generic-secret.md)
