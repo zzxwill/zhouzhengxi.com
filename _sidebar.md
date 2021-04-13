@@ -1,5 +1,7 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-040-crd-map-field](./2021/每天学一点-Kubernetes-040-crd-map-field.md)
+    - [每天学一点-Kubernetes-039-generic-secret](./2021/每天学一点-Kubernetes-039-generic-secret.md)
     - [每天学一点-Kubernetes-038-cluster-namespaced-scope](./2021/每天学一点-Kubernetes-038-cluster-namespaced-scope.md)
     - [每天学一点-Kubernetes-037-kubebuilder-新版本生成文件说明](./2021/每天学一点-Kubernetes-037-kubebuilder-新版本生成文件说明.md)
     - [每天学一点-Kubernetes-036-deployment-not-ready](2021/每天学一点-Kubernetes-036-deployment-not-ready.md)

@@ -1,32 +1,50 @@
-# 每天学一点-Kubernetes-039-generic-secret
+# 每天学一点-Kubernetes-040-crd-map-field
 
-Posted on Apr. 12 2021
+Posted on Apr. 13 2021
 
 ---
 
-generic secret
-
-Opaque is the default Secret type if omitted from a Secret configuration file. When you create a Secret using kubectl, you will use the generic subcommand to indicate an Opaque Secret type.
-
-```shell
-
-k create secret generic alibaba-account-creds -n crossplane-system --from-literal=name=xxxxxx --from-literal=region=yyyyyy
-
-
-[root@iZj6cc54ecpc3pm8t9yctuZ ~]# k get secret/alibabam -o yaml
-apiVersion: v1
-data:
-name: eHh4eHh4
-region: eXl5eXl5
-kind: Secret
-metadata:
-creationTimestamp: "2021-04-12T13:49:14Z"
-name: alibabam
-namespace: default
-resourceVersion: "10237832"
-selfLink: /api/v1/namespaces/default/secrets/alibabam
-uid: bf0e6c8a-c878-4fca-80b8-8372cfc30ae8
-type: Opaque
+需求：
+需要存储一个 map
 
 ```
+map[string]interface{}{
+  "zoneID": "cn-beijing-1",
+  "envType": EnvProduct,
+  "serviceAccount": "sa1",
+  "resourceGroup": "rg1",
+  "versionID": 1,
+}
+```
 
+
+
+可以使用 field
+
+```
+// Profile is used to extend fields of ProviderConfigSpec.
+// +kubebuilder:pruning:PreserveUnknownFields
+Profile runtime.RawExtension `json:"profile,omitempty"`
+
+// +kubebuilder:pruning:PreserveUnknownFields
+M map[string]string `json:"m,omitempty"`
+```
+
+记得，一定要把注解加上
+
+https://book.kubebuilder.io/reference/markers/crd-processing.html
+
+>kubebuilder:pruning:PreserveUnknownFields
+PreserveUnknownFields stops the apiserver from pruning fields which are not specified.
+By default the apiserver drops unknown fields from the request payload during the decoding step. This marker stops the API server from doing so. It affects fields recursively, but switches back to normal pruning behaviour if nested properties or additionalProperties are specified in the schema. This can either be true or undefined. False is forbidden.
+
+
+如果使用 unstructured.Unstructured，后台有错误日志
+
+```
+// +kubebuilder:pruning:PreserveUnknownFields
+T unstructured.Unstructured `json:"t,omitempty"`
+
+
+E0316 19:21:34.864545    2536 reflector.go:178] pkg/mod/k8s.io/client-go@v0.18.6/tools/cache/reflector.go:125: Failed to list *v1alpha1.ProviderConfig: v1alpha1.ProviderConfigList.TypeMeta: Kind: Items: []v1alpha1.ProviderConfig: v1alpha1.ProviderConfig.Status: Spec: v1alpha1.ProviderConfigSpec.T: unmarshalerDecoder: Object 'Kind' is missing in '{"serviceAccount":"mw-serverless"}', error found in #10 byte of ...|rverless"}},"status"|..., bigger context ...|cn-beijing","t":{"serviceAccount":"mw-serverless"}},"status":{}}],"kind":"ProviderConfigList","metad|...
+```
