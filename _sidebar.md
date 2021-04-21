@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-042-开发-Job](./2021/每天学一点-Kubernetes-042-开发-Job.md)
     - [每天学一点-Kubernetes-041-delete-terminating-cloud-resource](./2021/每天学一点-Kubernetes-041-delete-terminating-cloud-resource.md)
     - [每天学一点-Kubernetes-040-crd-map-field](./2021/每天学一点-Kubernetes-040-crd-map-field.md)
     - [每天学一点-Kubernetes-039-generic-secret](./2021/每天学一点-Kubernetes-039-generic-secret.md)
@@ -43,6 +44,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-088-判断-map-key-是否存在](./2021/每天学一点-go-语言-088-判断-map-key-是否存在.md)
     - [每天学一点-go-语言-087-interface-to-string](./2021/每天学一点-go-语言-087-interface-to-string.md)
     - [每天学一点-go-语言-086-struct-里的函数-field](./2021/每天学一点-go-语言-086-struct-里的函数-field.md)
     - [每天学一点-go-语言-085-new-object](./2021/每天学一点-go-语言-085-new-object.md)
