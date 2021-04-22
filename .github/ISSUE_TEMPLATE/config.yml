@@ -1,8 +1,5 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
-  - name: "\U0001F41B GitHub Community Support"
-    url: https://github.community/
+  - name: "\U+2753Questions & Help"
+    url: https://github.com/oam-dev/kubevela/discussions
     about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
