@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-043-磁盘共享](./2021/每天学一点-Kubernetes-043-磁盘共享.md)
     - [每天学一点-Kubernetes-042-开发-Job](./2021/每天学一点-Kubernetes-042-开发-Job.md)
     - [每天学一点-Kubernetes-041-delete-terminating-cloud-resource](./2021/每天学一点-Kubernetes-041-delete-terminating-cloud-resource.md)
     - [每天学一点-Kubernetes-040-crd-map-field](./2021/每天学一点-Kubernetes-040-crd-map-field.md)
