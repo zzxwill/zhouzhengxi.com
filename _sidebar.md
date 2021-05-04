@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-045-delete-resource-without-waiting](./2021/每天学一点-Kubernetes-045-delete-resource-without-waiting.md)
     - [每天学一点-Kubernetes-044-job不能更改的属性](./2021/每天学一点-Kubernetes-044-job不能更改的属性.md)
     - [每天学一点-Kubernetes-043-磁盘共享](./2021/每天学一点-Kubernetes-043-磁盘共享.md)
     - [每天学一点-Kubernetes-042-开发-Job](./2021/每天学一点-Kubernetes-042-开发-Job.md)
@@ -46,6 +47,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-092-单元测试](./2021/每天学一点-go-语言-092-单元测试.md)
     - [每天学一点-go-语言-091-golang-docker](./2021/每天学一点-go-语言-091-golang-docker.md)
     - [每天学一点-go-语言-090-yaml2struct](./2021/每天学一点-go-语言-090-yaml2struct.md)
     - [每天学一点-go-语言-089-regexp-Match](./2021/每天学一点-go-语言-089-regexp-Match.md)
