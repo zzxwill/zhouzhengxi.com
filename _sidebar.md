@@ -47,6 +47,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-093-error-cause](./2021/每天学一点-go-语言-093-error-cause.md)
     - [每天学一点-go-语言-092-单元测试](./2021/每天学一点-go-语言-092-单元测试.md)
     - [每天学一点-go-语言-091-golang-docker](./2021/每天学一点-go-语言-091-golang-docker.md)
     - [每天学一点-go-语言-090-yaml2struct](./2021/每天学一点-go-语言-090-yaml2struct.md)
