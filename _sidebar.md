@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-047-api对象group.md](./2021/每天学一点-Kubernetes-047-api对象group.md)
     - [每天学一点-Kubernetes-046-开发-Job-2](./2021/每天学一点-Kubernetes-046-开发-Job-2.md)
     - [每天学一点-Kubernetes-045-delete-resource-without-waiting](./2021/每天学一点-Kubernetes-045-delete-resource-without-waiting.md)
     - [每天学一点-Kubernetes-044-job不能更改的属性](./2021/每天学一点-Kubernetes-044-job不能更改的属性.md)
