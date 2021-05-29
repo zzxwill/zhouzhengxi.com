@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-049-configmap-secret-data](./2021/每天学一点-Kubernetes-049-configmap-secret-data.md)
     - [每天学一点-Kubernetes-048-kubernetes-license](./2021/每天学一点-Kubernetes-048-kubernetes-license.md)
     - [每天学一点-Kubernetes-047-api对象group](./2021/每天学一点-Kubernetes-047-api对象group.md)
     - [每天学一点-Kubernetes-046-开发-Job-2](./2021/每天学一点-Kubernetes-046-开发-Job-2.md)
