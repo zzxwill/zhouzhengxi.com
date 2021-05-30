@@ -51,6 +51,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-099-debug-fmt-in-Goland](./2021/每天学一点-go-语言-099-debug-fmt-in-Goland.md)
     - [每天学一点-go-语言-096-gzip-compress](./2021/每天学一点-go-语言-096-gzip-compress.md)
     - [每天学一点-go-语言-095-golangci-lint-issue](./2021/每天学一点-go-语言-095-golangci-lint-issue.md)
     - [每天学一点-go-语言-094-int-指针](./2021/每天学一点-go-语言-094-int-指针.md)
