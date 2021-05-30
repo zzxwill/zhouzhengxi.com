@@ -1,4 +1,4 @@
-# 每天学一点-Kubernetes-049-configmap-secret-data.md
+# 每天学一点-Kubernetes-049-configmap-secret-data
 
 Posted on May 29, 2021
 
