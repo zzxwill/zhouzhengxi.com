@@ -53,6 +53,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-101-i-have-written-100-golang-essays](./2021/每天学一点-go-语言-101-i-have-written-100-golang-essays.md)
     - [每天学一点-go-语言-100-struct-compare](./2021/每天学一点-go-语言-100-struct-compare.md)
     - [每天学一点-go-语言-099-debug-fmt-in-Goland](./2021/每天学一点-go-语言-099-debug-fmt-in-Goland.md)
     - [每天学一点-go-语言-096-gzip-compress](./2021/每天学一点-go-语言-096-gzip-compress.md)
