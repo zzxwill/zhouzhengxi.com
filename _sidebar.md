@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-053-when-job-exits](./2021/每天学一点-Kubernetes-053-when-job-exits.md)
     - [每天学一点-Kubernetes-052-resource-substatus.md](./2021/每天学一点-Kubernetes-052-resource-substatus.md)
     - [每天学一点-Kubernetes-051-delete-terminate-resource](./2021/每天学一点-Kubernetes-051-delete-terminate-resource.md)
     - [每天学一点-Kubernetes-050-make-chart-for-kubebuilder-project](./2021/每天学一点-Kubernetes-050-make-chart-for-kubebuilder-project.md)
