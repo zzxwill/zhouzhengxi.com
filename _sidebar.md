@@ -55,6 +55,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-Kubernetes-054-delete-job-and-pod](./2021/每天学一点-Kubernetes-054-delete-job-and-pod.md)
     - [每天学一点-go-语言-102-no-pointer-in-loop](./2021/每天学一点-go-语言-102-no-pointer-in-loop.md)
     - [每天学一点-go-语言-101-i-have-written-100-golang-essays](./2021/每天学一点-go-语言-101-i-have-written-100-golang-essays.md)
     - [每天学一点-go-语言-100-struct-compare](./2021/每天学一点-go-语言-100-struct-compare.md)
