@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-054-delete-job-and-pod](./2021/每天学一点-Kubernetes-054-delete-job-and-pod.md)
     - [每天学一点-Kubernetes-053-when-job-exits](./2021/每天学一点-Kubernetes-053-when-job-exits.md)
     - [每天学一点-Kubernetes-052-resource-substatus.md](./2021/每天学一点-Kubernetes-052-resource-substatus.md)
     - [每天学一点-Kubernetes-051-delete-terminate-resource](./2021/每天学一点-Kubernetes-051-delete-terminate-resource.md)
@@ -55,7 +56,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
-    - [每天学一点-Kubernetes-054-delete-job-and-pod](./2021/每天学一点-Kubernetes-054-delete-job-and-pod.md)
+    - [每天学一点-go-语言-103-where-to-init-common-variables](./2021/每天学一点-go-语言-103-where-to-init-common-variables-in-ginkgo-test.md)
     - [每天学一点-go-语言-102-no-pointer-in-loop](./2021/每天学一点-go-语言-102-no-pointer-in-loop.md)
     - [每天学一点-go-语言-101-i-have-written-100-golang-essays](./2021/每天学一点-go-语言-101-i-have-written-100-golang-essays.md)
     - [每天学一点-go-语言-100-struct-compare](./2021/每天学一点-go-语言-100-struct-compare.md)
