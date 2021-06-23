@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-060-finalizer](./2021/每天学一点-Kubernetes-060-finalizer.md)
     - [每天学一点-Kubernetes-059-k8s-controller-runtime-RequeueAfter](./2021/每天学一点-Kubernetes-059-k8s-controller-runtime-RequeueAfter.md)
     - [每天学一点-Kubernetes-058-OpenShift-installation-sucks](./2021/每天学一点-Kubernetes-058-OpenShift-installation-sucks.md)
     - [每天学一点-Kubernetes-057-SecurityContext](./2021/每天学一点-Kubernetes-057-SecurityContext.md)
