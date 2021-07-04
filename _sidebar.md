@@ -63,6 +63,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-106-compare-two-string-typed-array](./2021/每天学一点-go-语言-106-compare-two-string-typed-array.md)
     - [每天学一点-go-语言-105-dependency-of-libraries](./2021/每天学一点-go-语言-105-dependency-of-libraries.md)
     - [每天学一点-go-语言-104-the-best-assert-library](./2021/每天学一点-go-语言-104-the-best-assert-library.md)
     - [每天学一点-go-语言-103-where-to-init-common-variables](./2021/每天学一点-go-语言-103-where-to-init-common-variables-in-ginkgo-test.md)
