@@ -67,6 +67,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-107-bad-package-names](./2021/每天学一点-go-语言-107-bad-package-names.md)
     - [每天学一点-go-语言-106-compare-two-string-typed-array](./2021/每天学一点-go-语言-106-compare-two-string-typed-array.md)
     - [每天学一点-go-语言-105-dependency-of-libraries](./2021/每天学一点-go-语言-105-dependency-of-libraries.md)
     - [每天学一点-go-语言-104-the-best-assert-library](./2021/每天学一点-go-语言-104-the-best-assert-library.md)
