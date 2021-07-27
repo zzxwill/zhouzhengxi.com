@@ -1,4 +1,4 @@
-# 每天学一点-Kubernetes-063-CRD-short-name
+# 每天学一点-Kubernetes-064-apiservicemd
 
 Posted on July 23, 2021
 

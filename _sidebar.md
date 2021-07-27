@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-066-crossplane-namespace-ownerreference](./2021/每天学一点-Kubernetes-066-crossplane-namespace-ownerreference.md)
     - [每天学一点-Kubernetes-065-delete-terminating-namespace](./2021/每天学一点-Kubernetes-065-delete-terminating-namespace.md)
     - [每天学一点-Kubernetes-064-apiservicemd](./2021/每天学一点-Kubernetes-064-apiservicemd.md)
     - [每天学一点-Kubernetes-063-CRD-short-name](./2021/每天学一点-Kubernetes-063-CRD-short-name.md)

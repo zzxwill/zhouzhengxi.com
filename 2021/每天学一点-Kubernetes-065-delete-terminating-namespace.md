@@ -1,4 +1,4 @@
-# 每天学一点-Kubernetes-063-CRD-short-name
+# 每天学一点-Kubernetes-065-delete-terminating-namespace
 
 Posted on July 26, 2021
 
