@@ -1,18 +1,11 @@
-# 每天学一点-go-语言-110-goroutine-channel
+# 每天学一点-go-语言-111-goroutine-go-keyword
 
-Posted on Aug 10, 2021
+Posted on Aug 15, 2021
 
 ---
 
-channel
-## unbufferred channel
-ch := make(chan int)
-close(ch)
+goroutine 关键词是 `go`
 
-ch <- x 写
-x = <- ch 读，保存结果
-<-ch  读，抛弃结果
-
-## buffered channel
-
-ch := make(chan int, 10)
+```go
+go funcxxx()
+```
