@@ -72,6 +72,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-113-函数返回值](./2021/每天学一点-go-语言-113-函数返回值.md)
     - [每天学一点-go-语言-112-goroutine-execution-time](./2021/每天学一点-go-语言-112-goroutine-execution-time.md)
     - [每天学一点-go-语言-111-goroutine-go-keyword](./2021/每天学一点-go-语言-111-goroutine-go-keyword.md)
     - [每天学一点-go-语言-110-goroutine-channel](./2021/每天学一点-go-语言-110-goroutine-channel.md)
