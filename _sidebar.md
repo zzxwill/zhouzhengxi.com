@@ -73,6 +73,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-117-maximal-int32](./2021/每天学一点-go-语言-117-maximal-int32.md)
     - [每天学一点-go-语言-116-g-routine-sync.md](./2021/每天学一点-go-语言-116-g-routine-sync.md)
     - [每天学一点-go-语言-115-pass-by-value-parameter](./2021/每天学一点-go-语言-115-pass-by-value-parameter.md)
     - [每天学一点-go-语言-114-golang-slogan.md](./2021/每天学一点-go-语言-114-golang-slogan.md)
