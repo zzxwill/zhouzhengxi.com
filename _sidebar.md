@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-079-inner-svc-domain](./2021/每天学一点-Kubernetes-079-inner-svc-domain.md)
     - [每天学一点-Kubernetes-078-kubectl-proxy](./2021/每天学一点-Kubernetes-078-kubectl-proxy.md)
     - [每天学一点-Kubernetes-077-different-api-versions](./2021/每天学一点-Kubernetes-077-different-api-versions.md)
     - [每天学一点-Kubernetes-070-delete-terminating-pods](./2021/每天学一点-Kubernetes-070-delete-terminating-pods.md)

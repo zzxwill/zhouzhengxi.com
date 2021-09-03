@@ -1,4 +1,4 @@
-# 每天学一点-Kubernetes-077-different-api-versions
+# 每天学一点-Kubernetes-078-kubectl-proxy
 
 Posted on Aug 31, 2021
 
