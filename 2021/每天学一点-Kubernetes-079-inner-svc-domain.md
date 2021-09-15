@@ -4,6 +4,6 @@ Posted on Sept. 3, 2021
 
 ---
 
-svc inner Domian
+svc inner Domain
 
 `<serviceName>.<namespaceName>.svc.cluster.local`
