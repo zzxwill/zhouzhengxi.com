@@ -76,6 +76,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-119-deprecation-of-io-ioutil](./2021/每天学一点-go-语言-119-deprecation-of-io-ioutil.md)
     - [每天学一点-go-语言-118-defer-in-reverse-way](./2021/每天学一点-go-语言-118-defer-in-reverse-way.md)
     - [每天学一点-go-语言-117-maximal-int32](./2021/每天学一点-go-语言-117-maximal-int32.md)
     - [每天学一点-go-语言-116-g-routine-sync](./2021/每天学一点-go-语言-116-g-routine-sync.md)
