@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-084-pod-ready](./2021/每天学一点-Kubernetes-084-pod-ready.md)
     - [每天学一点-Kubernetes-083-container-ready](./2021/每天学一点-Kubernetes-083-container-ready.md)
     - [每天学一点-Kubernetes-082-serviceaccount-namespace](./2021/每天学一点-Kubernetes-082-serviceaccount-namespace.md)
     - [每天学一点-Kubernetes-081-Prometheus-scrape_configs配置](./2021/每天学一点-Kubernetes-081-Prometheus-scrape_configs配置.md)
