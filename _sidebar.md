@@ -81,6 +81,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-122-string.Fields](./2021/每天学一点-go-语言-122-string.Fields.md)
     - [每天学一点-go-语言-121-go-1.16-support-darwin-and-iOS](./2021/每天学一点-go-语言-121-go-1.16-support-darwin-and-iOS.md)
     - [每天学一点-go-语言-120-get-output-stderr-together](./2021/每天学一点-go-语言-120-get-output-stderr-together.md)
     - [每天学一点-go-语言-119-deprecation-of-io-ioutil](./2021/每天学一点-go-语言-119-deprecation-of-io-ioutil.md)
