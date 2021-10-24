@@ -10,6 +10,7 @@
     - [每天学一点-Kubernetes-079-inner-svc-domain](./2021/每天学一点-Kubernetes-079-inner-svc-domain.md)
     - [每天学一点-Kubernetes-078-kubectl-proxy](./2021/每天学一点-Kubernetes-078-kubectl-proxy.md)
     - [每天学一点-Kubernetes-077-different-api-versions](./2021/每天学一点-Kubernetes-077-different-api-versions.md)
+    - [每天学一点-Kubernetes-071-how-to-log-in-container](./2021/每天学一点-Kubernetes-071-how-to-log-in-container.md)
     - [每天学一点-Kubernetes-070-delete-terminating-pods](./2021/每天学一点-Kubernetes-070-delete-terminating-pods.md)
     - [每天学一点-Kubernetes-069-CRD-storageversion](./2021/每天学一点-Kubernetes-069-CRD-storageversion.md)
     - [每天学一点-Kubernetes-068-rkt](./2021/每天学一点-Kubernetes-068-rkt.md) 
