@@ -1,4 +1,4 @@
-# 每天学一点-Kubernetes-085-废弃的-gitRepo-volume
+# 每天学一点-Kubernetes-086-Azure执行Terraform的环境变量究竟应该怎么生成
 
 Posted on Oct. 21, 2021
 
