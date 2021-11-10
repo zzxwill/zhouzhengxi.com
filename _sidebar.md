@@ -85,6 +85,7 @@
 
 - 开发语言
   - 每天学一点 Go 语言
+    - [每天学一点-go-语言-123-errors-As.md](./2021/每天学一点-go-语言-123-errors-As.md)
     - [每天学一点-go-语言-124-TypeSwitchVar.md](./2021/每天学一点-go-语言-124-TypeSwitchVar.md)
     - [每天学一点-go-语言-123-define-variable-in-if](./2021/每天学一点-go-语言-123-define-variable-in-if.md)
     - [每天学一点-go-语言-122-string.Fields](./2021/每天学一点-go-语言-122-string.Fields.md)
