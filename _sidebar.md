@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [每天学一点-Kubernetes-091-skaffold-chart](./2021/每天学一点-Kubernetes-091-skaffold-chart.md)
     - [每天学一点-Kubernetes-090-client-go](./2021/每天学一点-Kubernetes-090-client-go.md)
     - [每天学一点-Kubernetes-089-clusterrole-vs-role](./2021/每天学一点-Kubernetes-089-clusterrole-vs-role.md)
     - [每天学一点-Kubernetes-088-Terraform-staging](./2021/每天学一点-Kubernetes-088-Terraform-staging.md)
