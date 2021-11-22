@@ -1,5 +1,6 @@
 - 云原生技术
   - 每天学一点 Kubernetes
+    - [Learn-a-little-Kubernetes-everyday-092-terraform-type-conversion](./2021/Learn-a-little-Kubernetes-everyday-092-terraform-type-conversion.md)
     - [每天学一点-Kubernetes-091-skaffold-chart](./2021/每天学一点-Kubernetes-091-skaffold-chart.md)
     - [每天学一点-Kubernetes-090-client-go](./2021/每天学一点-Kubernetes-090-client-go.md)
     - [每天学一点-Kubernetes-089-clusterrole-vs-role](./2021/每天学一点-Kubernetes-089-clusterrole-vs-role.md)
