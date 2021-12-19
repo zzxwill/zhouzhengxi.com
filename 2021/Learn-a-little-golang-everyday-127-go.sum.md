@@ -1,4 +1,4 @@
-# Learn-a-little-golang-everyday-127-go.sum.md
+# Learn-a-little-golang-everyday-127-go.sum
 
 Posted on Nov. 15, 2021
 
