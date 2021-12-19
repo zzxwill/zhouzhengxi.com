@@ -1,6 +1,6 @@
 # Learn-a-little-golang-everyday-128-compare-errors
 
-Posted on Nov. 19, 2021
+Posted on Dec. 19, 2021
 
 ---
 
