@@ -6,6 +6,7 @@
 
 - 开发语言
   - Learn a little Golang everyday
+    - [Learn-a-little-golang-everyday-132-error-context-message](./2022/Learn-a-little-golang-everyday-132-error-context-message.md)
     - [Learn-a-little-golang-everyday-131-fake-client-withScheme](./2022/Learn-a-little-golang-everyday-131-fake-client-withScheme.md)
     - [Learn-a-little-golang-everyday-130-fake-client](./2022/Learn-a-little-golang-everyday-130-fake-client.md)
     
