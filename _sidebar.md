@@ -1,6 +1,7 @@
 - 云原生技术
-  - 每天学一点 Kubernetes
-    - [Learn-a-little-Kubernetes-everyday-094-CaD](./2021/Learn-a-little-Kubernetes-everyday-094-CaD.md)
+  - Learn a little Kubernetes everyday
+    - [Learn-a-little-Kubernetes-everyday-095-NoKindMatchError](./2022/Learn-a-little-Kubernetes-everyday-095-NoKindMatchError.md)
+    - [Learn-a-little-Kubernetes-everyday-094-CaD](./2022/Learn-a-little-Kubernetes-everyday-094-CaD.md)
     - [Learn-a-little-golang-everyday-129-define-slice-length](./2021/Learn-a-little-golang-everyday-129-define-slice-length.md)
     - [Learn-a-little-Kubernetes-everyday-093-yaml-types](./2021/Learn-a-little-Kubernetes-everyday-093-yaml-types.md)
     - [Learn-a-little-Kubernetes-everyday-092-terraform-type-conversion](./2021/Learn-a-little-Kubernetes-everyday-092-terraform-type-conversion.md)
@@ -90,9 +91,9 @@
   - OAM/KubeVela
 
 - 开发语言
-  - 每天学一点 Go 语言
-    - [Learn-a-little-golang-everyday-131-fake-client-withScheme](./2021/Learn-a-little-golang-everyday-131-fake-client-withScheme.md)
-    - [Learn-a-little-golang-everyday-130-fake-client](./2021/Learn-a-little-golang-everyday-130-fake-client.md)
+  - Learn a little Golang everyday
+    - [Learn-a-little-golang-everyday-131-fake-client-withScheme](./2022/Learn-a-little-golang-everyday-131-fake-client-withScheme.md)
+    - [Learn-a-little-golang-everyday-130-fake-client](./2022/Learn-a-little-golang-everyday-130-fake-client.md)
     - [Learn-a-little-golang-everyday-128-compare-errors](./2021/Learn-a-little-golang-everyday-128-compare-errors.md)
     - [Learn-a-little-golang-everyday-127-go.sum](./2021/Learn-a-little-golang-everyday-127-go.sum.md)
     - [Learn-a-little-golang-everyday-126-receiver-function](./2021/Learn-a-little-golang-everyday-126-receiver-function.md)
