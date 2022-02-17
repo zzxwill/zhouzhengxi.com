@@ -1,5 +1,6 @@
 - 云原生技术
   - Learn a little Kubernetes everyday
+    - [Learn-a-little-Kubernetes-everyday-096-bool-in-Pod-env](./2022/Learn-a-little-Kubernetes-everyday-096-bool-in-Pod-env.md)
     - [Learn-a-little-Kubernetes-everyday-095-NoKindMatchError](./2022/Learn-a-little-Kubernetes-everyday-095-NoKindMatchError.md)
     - [Learn-a-little-Kubernetes-everyday-094-CaD](./2022/Learn-a-little-Kubernetes-everyday-094-CaD.md)
       - OAM/KubeVela

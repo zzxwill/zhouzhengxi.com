@@ -1,6 +1,6 @@
 # Learn-a-little-Kubernetes-everyday-095-NoKindMatchError
 
-Posted on Jan. 18, 2021
+Posted on Jan. 18, 2022
 
 
 ```
