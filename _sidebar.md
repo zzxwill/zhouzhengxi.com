@@ -7,6 +7,7 @@
 
 - 开发语言
   - Learn a little Golang everyday
+    - [Learn-a-little-golang-everyday-135-gomonkey-magic](./2022/Learn-a-little-golang-everyday-135-gomonkey-magic.md) 
     - [Learn-a-little-golang-everyday-134-convert-a-sturct-to-yaml](./2022/Learn-a-little-golang-everyday-134-convert-a-sturct-to-yaml.md)
     - [Learn-a-little-golang-everyday-133-a-better-assert-library.md](./2022/Learn-a-little-golang-everyday-133-a-better-assert-library.md)
     - [Learn-a-little-golang-everyday-132-error-context-message](./2022/Learn-a-little-golang-everyday-132-error-context-message.md)
