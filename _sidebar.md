@@ -9,6 +9,7 @@
 
 - 开发语言
   - Learn a little Golang everyday
+    - [Learn-a-little-golang-everyday-137-type-assertions](./2022/Learn-a-little-golang-everyday-137-type-assertions.md)
     - [Learn-a-little-golang-everyday-136-empty-key-in-a-map](./2022/Learn-a-little-golang-everyday-136-empty-key-in-a-map.md)
     - [Learn-a-little-golang-everyday-135-gomonkey-magic](./2022/Learn-a-little-golang-everyday-135-gomonkey-magic.md) 
     - [Learn-a-little-golang-everyday-134-convert-a-sturct-to-yaml](./2022/Learn-a-little-golang-everyday-134-convert-a-sturct-to-yaml.md)
