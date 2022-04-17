@@ -1,5 +1,6 @@
 - 云原生技术
   - Learn a little Kubernetes everyday
+    - [Learn-a-little-Kubernetes-everyday-100-kubernetes-short-name](./2022/Learn-a-little-Kubernetes-everyday-100-kubernetes-short-name.md)
     - [Learn-a-little-Kubernetes-everyday-099-CD-foundation](./2022/Learn-a-little-Kubernetes-everyday-099-CD-foundation.md)
     - [Learn-a-little-Kubernetes-everyday-098-crd-reviewer](./2022/Learn-a-little-Kubernetes-everyday-098-crd-reviewer.md)
     - [Learn-a-little-Kubernetes-everyday-097-klog-level](./2022/Learn-a-little-Kubernetes-everyday-097-klog-level.md)
