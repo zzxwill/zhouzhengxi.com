@@ -558,4 +558,4 @@ CDK CLI is developed from NodeJS, so there won't be any Golang API to call.
 
 ## Reference
 
-- AWS CDK Go Sample project: 
+- AWS CDK Go Sample project: https://github.com/zzxwill/cdk-go-sample.git
