@@ -8,7 +8,9 @@
     - [Learn-a-little-Kubernetes-everyday-096-bool-in-Pod-env](./2022/Learn-a-little-Kubernetes-everyday-096-bool-in-Pod-env.md)
     - [Learn-a-little-Kubernetes-everyday-095-NoKindMatchError](./2022/Learn-a-little-Kubernetes-everyday-095-NoKindMatchError.md)
     - [Learn-a-little-Kubernetes-everyday-094-CaD](./2022/Learn-a-little-Kubernetes-everyday-094-CaD.md)
-      - OAM/KubeVela
+  - OAM/KubeVela
+    - [Deploy static website in Bucket](./2022/deploy-static-website-in-bucket.md)
+    - [静态网站部署](./2022/deploy-static-website-in-bucket-Zh.md)
 
 - 开发语言
   - Learn a little Golang everyday
@@ -22,7 +24,7 @@
     - [Learn-a-little-golang-everyday-132-error-context-message](./2022/Learn-a-little-golang-everyday-132-error-context-message.md)
     - [Learn-a-little-golang-everyday-131-fake-client-withScheme](./2022/Learn-a-little-golang-everyday-131-fake-client-withScheme.md)
     - [Learn-a-little-golang-everyday-130-fake-client](./2022/Learn-a-little-golang-everyday-130-fake-client.md)
-    
+ 
 
 - 开发
   - [本站涉及的 Docsify 开发](./Development.md)
