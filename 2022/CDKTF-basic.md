@@ -1,7 +1,7 @@
-# CDK Basic
+# CDKTF Basic
 
 
-## Install CDK
+## Install CDKTF
 
 ```shell
 ➜  ~ npm install -g cdktf-cli@next
