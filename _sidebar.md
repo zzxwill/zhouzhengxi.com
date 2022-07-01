@@ -1,4 +1,4 @@
-- 云原生技术
+- Cloud Native
   - Learn a little Kubernetes everyday
     - [Learn-a-little-Kubernetes-everyday-101-storageversion](./2022/Learn-a-little-Kubernetes-everyday-101-storageversion.md)
     - [Learn-a-little-Kubernetes-everyday-100-kubernetes-short-name](./2022/Learn-a-little-Kubernetes-everyday-100-kubernetes-short-name.md)
@@ -8,11 +8,19 @@
     - [Learn-a-little-Kubernetes-everyday-096-bool-in-Pod-env](./2022/Learn-a-little-Kubernetes-everyday-096-bool-in-Pod-env.md)
     - [Learn-a-little-Kubernetes-everyday-095-NoKindMatchError](./2022/Learn-a-little-Kubernetes-everyday-095-NoKindMatchError.md)
     - [Learn-a-little-Kubernetes-everyday-094-CaD](./2022/Learn-a-little-Kubernetes-everyday-094-CaD.md)
+  - Cloud Resources Orchestration
+    - [CDK basic](./2022/CDK-basic.md)
+    - [CDKTF basic](./2022/CDKTF-basic.md)
+    - [Pulumi basic](./2022/Pulumi-basic.md)
+    - Terraform
+      - [Terraform JSON configuration file 如何配置 variables](./2021/Terraform-JSON-configuration-file如何配置variables.md)
   - OAM/KubeVela
     - [Deploy static website in Bucket](./2022/deploy-static-website-in-bucket.md)
     - [静态网站部署](./2022/deploy-static-website-in-bucket-Zh.md)
+  - Crossplane
+  - Openstack Heat
 
-- 开发语言
+- Programming & Architecture
   - Learn a little Golang everyday
     - [Learn-a-little-golang-everyday-139-deep-copy](./2022/Learn-a-little-golang-everyday-139-deep-copy.md)
     - [Learn-a-little-golang-everyday-138-compare](./2022/Learn-a-little-golang-everyday-138-compare.md)
@@ -24,38 +32,17 @@
     - [Learn-a-little-golang-everyday-132-error-context-message](./2022/Learn-a-little-golang-everyday-132-error-context-message.md)
     - [Learn-a-little-golang-everyday-131-fake-client-withScheme](./2022/Learn-a-little-golang-everyday-131-fake-client-withScheme.md)
     - [Learn-a-little-golang-everyday-130-fake-client](./2022/Learn-a-little-golang-everyday-130-fake-client.md)
- 
-
-- 开发
-  - [本站涉及的 Docsify 开发](./Development.md)
-
-- 云计算
-  - [OpenStack]
-  - Cloud Native
-    - Cloud Resources Orchestration
-      - [CDK basic](./2022/CDK-basic.md)
-      - [CDKTF basic](./2022/CDKTF-basic.md)
-      - [Pulumi basic](./2022/Pulumi-basic.md)
-
-- 开源
-
-- 技术细沙
+  - Docsify
+    - [本站涉及的 Docsify 开发](./Development.md)
   - [写了两天React](./2021/写了两天React.md)
   - S2I
     - [S2I学习和思考](./2021/S2I学习和思考.md)
     - [学习Cloud-Native-Buildpacks](./2021/学习Cloud-Native-Buildpacks.md)
     - [学习OpenShift-source-to-image](./2021/学习OpenShift-source-to-image.md)
-  - Cloud Resource Orchestration | 云资源编排
-    - Terraform
-      - [Terraform JSON configuration file 如何配置 variables](./2021/Terraform-JSON-configuration-file如何配置variables.md)
-    - Crossplane
-    - Openstack Heat
 
-- 随笔
-
-- 近期沉湎
-
-- [关于](./README.md)
+- [About](./README.md)
+  - [English](./README.md)
+  - [中文](./README_zh.md)
   
 - Archive By Year
   - 2021
@@ -241,7 +228,6 @@
     - [每天学一点-kubernetes-7-controller-manager-不厌其烦](2020/每天学一点-kubernetes-7-controller-manager-不厌其烦.md)
     - [每天学一点-kubernetes-8-endpoint-namespace-controller](2020/每天学一点-kubernetes-8-endpoint-namespace-controller.md)
     - [每天学一点-kubernetes-9-node-上有啥玩意儿？](2020/每天学一点-kubernetes-9-node-上有啥玩意儿？.md)
-
     - [038-指针的值](./2020/每天学一点-go-语言038-指针的值.md)
     - [037 第三方 Set](./2020/每天学一点-go-语言037-第三方Set.md)
     - [36-strings-split-的小细节](2020/每天学一点-go-语言36-strings-split-的小细节.md)

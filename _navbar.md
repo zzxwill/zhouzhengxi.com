@@ -1,3 +1,5 @@
 - [Home](/)
+- [Blog](./_sidebar.md)
 - [About](./README.md)
-- [Blog](./2020)
+  - [English](./README.md)
+  - [中文](./README_zh.md)

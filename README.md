@@ -1,19 +1,15 @@
-# 踮起脚尖
-Coding & 品质生活 & 产品吐槽
+# Stand on Tiptoes
+Coding, qualified life, and product experience
 
-## 介绍
-> 从 Wordpress 迁移到 docsify
+## About me
 
-记录学习思考、编程实践、品质生活和产品吐槽。
+I am Will, a software engineer at Alibaba Cloud, focusing on cloud native development.
 
+## Contact
 
-## 联系方式
+Email：zzxwill@gmail.com
 
-邮箱：zzxwill@gmail.com
-
-公众号：Geek2014
-
-<img width="256" height="256" src="./resources/Geek2014.JPG"/>
+Twitter: [@zzxwill](https://twitter.com/zzxwill)
 
 
 
