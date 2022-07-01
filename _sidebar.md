@@ -33,8 +33,9 @@
   - [OpenStack]
   - Cloud Native
     - Cloud Resources Orchestration
-      - [CDK-basic](./2022/CDK-basic.md)
-      - [CDKTF-basic](./2022/CDKTF-basic.md)
+      - [CDK basic](./2022/CDK-basic.md)
+      - [CDKTF basic](./2022/CDKTF-basic.md)
+      - [Pulumi basic](./2022/Pulumi-basic.md)
 
 - 开源
 
