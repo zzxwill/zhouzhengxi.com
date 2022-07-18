@@ -33,7 +33,8 @@
     - [Learn-a-little-golang-everyday-131-fake-client-withScheme](./2022/Learn-a-little-golang-everyday-131-fake-client-withScheme.md)
     - [Learn-a-little-golang-everyday-130-fake-client](./2022/Learn-a-little-golang-everyday-130-fake-client.md)
   - LeetCode
-    - [palindrome-number](./2022/leetcode-palindrome-number.md)
+    - [Palindrome Number](./2022/leetcode-palindrome-number.md)
+    - [Palindrome Number (Solution 2)](./2022/leetcode-palindrome-number-2.md)
   - Docsify
     - [本站涉及的 Docsify 开发](./Development.md)
   - [写了两天React](./2021/写了两天React.md)
