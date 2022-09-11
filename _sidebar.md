@@ -14,6 +14,8 @@
     - [Pulumi basic](./2022/Pulumi-basic.md)
     - Terraform
       - [Terraform JSON configuration file 如何配置 variables](./2021/Terraform-JSON-configuration-file如何配置variables.md)
+  - Message Queue
+    - [101](./2022/message-queue.md)
   - OAM/KubeVela
     - [Deploy static website in Bucket](./2022/deploy-static-website-in-bucket.md)
     - [静态网站部署](./2022/deploy-static-website-in-bucket-Zh.md)
