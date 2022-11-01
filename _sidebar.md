@@ -14,6 +14,8 @@
     - [Pulumi basic](./2022/Pulumi-basic.md)
     - Terraform
       - [Terraform JSON configuration file 如何配置 variables](./2021/Terraform-JSON-configuration-file如何配置variables.md)
+    - Fermyon Cloud
+      - [Try Fermyon Cloud](./2022/try-fermyon-cloud.md)
   - Message Queue
     - [101](./2022/message-queue.md)
   - OAM/KubeVela

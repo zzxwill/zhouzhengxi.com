@@ -12,7 +12,7 @@ Coding & 品质生活 & 产品吐槽
 
 公众号：Geek2014
 
-<img width="256" height="256" src="./resources/Geek2014.JPG"/>
+<img width="256" height="256" src="./resources/img/Geek2014.JPG"/>
 
 
 
