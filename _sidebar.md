@@ -14,15 +14,17 @@
     - [Pulumi basic](./2022/Pulumi-basic.md)
     - Terraform
       - [Terraform JSON configuration file 如何配置 variables](./2021/Terraform-JSON-configuration-file如何配置variables.md)
+    - Crossplane
+    - Openstack Heat
+  - Application deploy
     - Fermyon Cloud
       - [Try Fermyon Cloud](./2022/try-fermyon-cloud.md)
-  - Message Queue
-    - [101](./2022/message-queue.md)
-  - OAM/KubeVela
-    - [Deploy static website in Bucket](./2022/deploy-static-website-in-bucket.md)
-    - [静态网站部署](./2022/deploy-static-website-in-bucket-Zh.md)
-  - Crossplane
-  - Openstack Heat
+    - Message Queue
+      - [101](./2022/message-queue.md)
+    - OAM/KubeVela
+      - [Deploy static website in Bucket](./2022/deploy-static-website-in-bucket.md)
+      - [静态网站部署](./2022/deploy-static-website-in-bucket-Zh.md)
+
 
 - Programming & Architecture
   - Learn a little Golang everyday
@@ -46,6 +48,9 @@
     - [S2I学习和思考](./2021/S2I学习和思考.md)
     - [学习Cloud-Native-Buildpacks](./2021/学习Cloud-Native-Buildpacks.md)
     - [学习OpenShift-source-to-image](./2021/学习OpenShift-source-to-image.md)
+
+- Just have fun
+  - [Try Stable Diffusion](./2022/try-stable-diffusion.md)
 
 - [About](./README.md)
   - [English](./README.md)
