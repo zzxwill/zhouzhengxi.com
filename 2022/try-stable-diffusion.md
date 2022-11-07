@@ -32,11 +32,10 @@ On macOS, you can easily install an app called [DiffusionBee](https://diffusionb
 
 I used the following inputs to generate some images.
 
-- Girl with a Pearl Earring
-- a hyperreal portrait of a young lady, black hair with tiny flowers on the head, light colour cloths, a clean neck
 - a lovely cartoon crocodile on a grassland with a child by the side
 - a street is full of deep yellow gingko leaves with gingko on both side of the road in Peking
 - Girl with a Pearl Earring
+- a hyperreal portrait of a young lady, black hair with tiny flowers on the head, light colour cloths, a clean neck
 
 ![](../resources/img/sd-crocodile-1.png)
 ![](../resources/img/sd-crocodile-2.png)
