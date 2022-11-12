@@ -53,8 +53,8 @@
   - [Try Stable Diffusion](./2022/try-stable-diffusion.md)
 
 - [About](./README.md)
-  - [English](./README.md)
-  - [中文](./README_zh.md)
+  - [:us:](./README.md)
+  - [:cn:](./README_zh.md)
   
 - Archive By Year
   - 2021

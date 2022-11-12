@@ -1,5 +1,5 @@
 - [Home](/)
 - [Blog](./_sidebar.md)
 - [About](./README.md)
-  - [English](./README.md)
-  - [中文](./README_zh.md)
+  - [:us:](./README.md)
+  - [:cn:](./README_zh.md)

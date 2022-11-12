@@ -18,7 +18,7 @@
       repo: 'zzxwill/zhouzhengxi.com',
       loadSidebar: true,
       loadNavbar: true,
-      homepage: '/README.md',
+      homepage: './2022/try-stable-diffusion.md',
       subMaxLevel: 1,
       alias: {
         '/_sidebar.md': '/_sidebar.md',
@@ -39,7 +39,12 @@
         telegram: true,
       },
       plugins: [
-        function (hook) {
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            var url = 'https://github.com/zzxwill/zhouzhengxi.com/tree/master/' + vm.route.file;
+            var editHtml = '[:memo: Edit Document](' + url + ')\n';
+            return editHtml + html;
+          });
           var footer = [
             '<hr>',
             '<footer>',
@@ -49,20 +54,20 @@
             '</footer>',
             '<br>'
           ].join('');
-
           hook.afterEach(function (html) {
             return html + footer
           })
         }
-      ]
+      ],
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-<!--  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>-->
   <!-- plugins -->
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
+  <!-- emoji -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 </html>
