@@ -47,6 +47,8 @@
 
 - Just have fun
   - [Try Stable Diffusion](./2022/try-stable-diffusion.md)
+  - [Try-Blog-Theme-Jekyll](./2024/Try-Blog-Theme-Jekyll.md)
+  - [Ruby-101](./2024/Ruby-101.md)
 
 - [About](./README.md)
   - [:us:](./README.md)
