@@ -3,7 +3,7 @@ Coding, qualified life, and product experience
 
 ## About me
 
-I am Will, a software engineer at Alibaba Cloud, focusing on cloud native development.
+I am Will, a software engineer at Tiktok, focusing on cloud native development, like Kubernetes, Serverless and FaaS.
 
 ## Contact
 
