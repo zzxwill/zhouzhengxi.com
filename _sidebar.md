@@ -42,6 +42,8 @@
     - [学习OpenShift-source-to-image](./2021/学习OpenShift-source-to-image.md)
 
 - Just have fun
+  - AI
+    - [Spend $0.05 to Change the Voice of a Song](./2024/spend-5-cents-to-change-voice-of-a-song.md)
   - [Try Stable Diffusion](./2022/try-stable-diffusion.md)
   - [Try-Blog-Theme-Jekyll](./2024/Try-Blog-Theme-Jekyll.md)
   - [Ruby-101](./2024/Ruby-101.md)
