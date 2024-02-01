@@ -44,6 +44,7 @@
 - Just have fun
   - AI
     - [Spend $0.05 to Change the Voice of a Song](./2024/spend-5-cents-to-change-voice-of-a-song.md)
+    - [花 0.05 美元改变歌曲的声音](./2024/spend-5-cents-to-change-voice-of-a-song-ZH_CN.md)
   - [Try Stable Diffusion](./2022/try-stable-diffusion.md)
   - [Try-Blog-Theme-Jekyll](./2024/Try-Blog-Theme-Jekyll.md)
   - [Ruby-101](./2024/Ruby-101.md)
