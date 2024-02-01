@@ -25,6 +25,10 @@
       - [Deploy static website in Bucket](./2022/deploy-static-website-in-bucket.md)
       - [静态网站部署](./2022/deploy-static-website-in-bucket-Zh.md)
 
+- AI
+  - [Spend $0.05 to Change the Voice of a Song](./2024/spend-5-cents-to-change-voice-of-a-song.md)
+  - [花 0.05 美元改变歌曲的声音](./2024/spend-5-cents-to-change-voice-of-a-song-ZH_CN.md)
+  - [AI changes voice](./2024/ai-change-voice.md)
 
 - Programming & Architecture
   - Learn a little Golang everyday
@@ -42,9 +46,6 @@
     - [学习OpenShift-source-to-image](./2021/学习OpenShift-source-to-image.md)
 
 - Just have fun
-  - AI
-    - [Spend $0.05 to Change the Voice of a Song](./2024/spend-5-cents-to-change-voice-of-a-song.md)
-    - [花 0.05 美元改变歌曲的声音](./2024/spend-5-cents-to-change-voice-of-a-song-ZH_CN.md)
   - [Try Stable Diffusion](./2022/try-stable-diffusion.md)
   - [Try-Blog-Theme-Jekyll](./2024/Try-Blog-Theme-Jekyll.md)
   - [Ruby-101](./2024/Ruby-101.md)
