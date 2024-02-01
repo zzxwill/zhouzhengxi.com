@@ -29,6 +29,7 @@
   - [Spend $0.05 to Change the Voice of a Song](./2024/spend-5-cents-to-change-voice-of-a-song.md)
   - [花 0.05 美元改变歌曲的声音](./2024/spend-5-cents-to-change-voice-of-a-song-ZH_CN.md)
   - [AI changes voice](./2024/ai-change-voice.md)
+  - [Introduction to replicas.com](./2024/introduction-to-replicas-com.md)
 
 - Programming & Architecture
   - Learn a little Golang everyday
