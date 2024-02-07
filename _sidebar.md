@@ -33,7 +33,8 @@
   - [Introduction to replicas.com](./2024/introduction-to-replicas-com.md)
 
 - Programming & Architecture
-  - Learn a little Golang everyday
+  - Learn a little Golang everyday (2024)
+    - [Learn-a-little-golang-everyday-146-go-mod-downgrade](./2024/Learn-a-little-golang-everyday-146-go-mod-downgrade.md)
     - [Learn-a-little-golang-everyday-145-go-mock](./2024/Learn-a-little-golang-everyday-145-go-mock.md)
 
   - LeetCode
