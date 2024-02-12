@@ -49,6 +49,7 @@
     - [学习OpenShift-source-to-image](./2021/学习OpenShift-source-to-image.md)
 
 - Just have fun
+  - [网络闲逛的一些有意思的东西](./2024/web-wondering.md)
   - [Try-Blog-Theme-Jekyll](./2024/Try-Blog-Theme-Jekyll.md)
   - [Ruby-101](./2024/Ruby-101.md)
   - [Apply Malaysia Visa as a Chinese Citizen](./2023/apply-Malaysia-visa.md)
