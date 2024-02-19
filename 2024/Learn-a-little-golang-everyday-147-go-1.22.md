@@ -131,8 +131,6 @@ banana
 orange
 ```
 
-
-
-
-
-
+# Reference
+- https://go.dev/blog/go1.22
+- https://go.dev/doc/go1.22
