@@ -4,15 +4,135 @@ Posted on Feb. 19, 2024
 
 ---
 
-I was about to upgrade a dependent library and noticed it was downgrading the lib.
+# 语言变化
 
-```shell
-$ go get downgraded xxx.org/xxx/xxx/v2@v2.1.1-release-fix9
-go: downgraded xxx.org/xxx/xxx/v2 v2.1.1 => v2.1.1-release-fix9
+## 循环里，变量不再是引用，而是一个值。
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	done := make(chan bool)
+
+	values := []string{"a", "b", "c"}
+	for _, v := range values {
+		go func() {
+			fmt.Println(v)
+			done <- true
+		}()
+	}
+
+	// wait for all goroutines to complete before exiting
+	for _ = range values {
+		<-done
+	}
+}
 ```
 
-It finds the tag `v2.1.1-release-fix9` is older than `v2.1.1` per [Semantic Versioning 2.0.0](https://semver.org/#spec-item-11).
+我们看看 Go 1.22 和之前的版本有什么不同。
 
 ```text
-Example: 1.0.0-alpha < 1.0.0-alpha.1 < 1.0.0-alpha.beta < 1.0.0-beta < 1.0.0-beta.2 < 1.0.0-beta.11 < 1.0.0-rc.1 < 1.0.0.
+➜  learn-20240219 go version
+go version go1.22.0 darwin/arm64
+➜  learn-20240219 go run main.go
+c
+a
+b
+➜  learn-20240219 gvm use go1.21
+Now using version go1.21.0
+➜  learn-20240219 go run main.go
+c
+c
+c
+➜  learn-20240219 go run main.go
+c
+c
+c
 ```
+
+很明显，Golang 1.22 里的循环里的变量，而是一个值；前序版本循环里的变量是引用，循环一遍之后，v 的值是最后一个元素。
+
+## 整型也可以循环
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+
+	for i := range 10 {
+		fmt.Println(i)
+	}
+}
+```
+
+在 Golang 前序版本 1.21 里，这段代码是不合法的。
+
+![](../resources/img/golang-iterate-int.png)
+
+在新版本里，可以正常循环输出。
+
+```text
+➜  learn-20240219 go version
+go version go1.22.0 darwin/arm64
+➜  learn-20240219 go run main.go
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+```
+
+## 标准库更新
+
+### 切片连接 slices.Concat
+
+看看新版本和老版本连接 slice 的区别。
+
+```go
+package main
+
+import "slices"
+
+func main() {
+	animals := []string{"cat", "dog", "bird"}
+	fruits := []string{"apple", "banana", "orange"}
+
+	// 1.22
+	all := slices.Concat(animals, fruits)
+	for _, v := range all {
+		println(v)
+	}
+
+	// 1.22-, like 1.21
+	all = append(animals, fruits...)
+	for _, v := range all {
+		println(v)
+	}
+
+}
+```
+
+运行效果是一样的，但是新版本的实现更简单。
+```text
+cat
+dog
+bird
+apple
+banana
+orange
+```
+
+
+
+
+
+
