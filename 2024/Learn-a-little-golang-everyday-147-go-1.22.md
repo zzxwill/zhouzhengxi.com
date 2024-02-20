@@ -1,8 +1,10 @@
-# Go 1.22.0 is released
+# Go 1.22 is released
 
 Posted on Feb. 19, 2024
 
 ---
+
+Go 1.22 在 2024 年 2 月 6 日发布了。
 
 # 语言变化
 
@@ -129,6 +131,16 @@ bird
 apple
 banana
 orange
+```
+
+# 平台支持
+官方文档里，有一章节叫「Ports」，我问了 ChatGPT，原来这个叫平台、操作系统。新版 Golang 1.22 提到了 `Loong64`，这个是中国开发的龙芯处理器。
+
+```shell
+Loong64
+The loong64 port now supports passing function arguments and results using registers.
+
+The linux/loong64 port now supports the address sanitizer, memory sanitizer, new-style linker relocations, and the plugin build mode.
 ```
 
 # Reference
