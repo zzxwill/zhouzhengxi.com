@@ -37,7 +37,8 @@
 
 - Programming & Architecture
   - Learn a little Golang everyday (2024)
-    - [Go 1.22.0 is released](./2024/Learn-a-little-golang-everyday-147-go-1.22.md)
+    - [148-new-goland-supports-go-1.22](./2024/Learn-a-little-golang-every-day-148-new-goland-supports-go-1.22.md)
+    - [147-Go 1.22.0 is released](./2024/Learn-a-little-golang-everyday-147-go-1.22.md)
     - [146-go-mod-downgrade](./2024/Learn-a-little-golang-everyday-146-go-mod-downgrade.md)
     - [145-go-mock](./2024/Learn-a-little-golang-everyday-145-go-mock.md)
     - Archive By Year
