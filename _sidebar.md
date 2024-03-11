@@ -8,6 +8,7 @@
 - Cloud Native
   - Learn a little FaaS everyday
     - [Study on AWS Lambda Features](./2024/Learn-a-little-FaaS-every-day-1-aws-lambda-features.md)
+    - [Max In Flight in RocketMQ and Kafka](./2024/Learn-a-little-FaaS-every-day-2-rocketmq-kafka-max.in.flight.md)
 
   - Learn a little Kubernetes everyday
     - [101-storageversion](./2022/Learn-a-little-Kubernetes-everyday-101-storageversion.md)
@@ -36,8 +37,9 @@
       - [静态网站部署](./2022/deploy-static-website-in-bucket-Zh.md)
 
 - Programming & Architecture
-  - Learn a little Golang everyday (2024)
-    - [148-new-goland-supports-go-1.22](./2024/Learn-a-little-golang-every-day-148-new-goland-supports-go-1.22.md)
+  - Learn a little Golang every day (2024)
+    - [](./2024/Learn-a-little-golang-every-day-150-unset-goproxy.md)
+    - [148-new-goland-supports-go-1.22](./2024/Learn-a-little-golang-every-day-148-new-goland-supports-go-1.22)
     - [147-Go 1.22.0 is released](./2024/Learn-a-little-golang-everyday-147-go-1.22.md)
     - [146-go-mod-downgrade](./2024/Learn-a-little-golang-everyday-146-go-mod-downgrade.md)
     - [145-go-mock](./2024/Learn-a-little-golang-everyday-145-go-mock.md)
