@@ -40,9 +40,9 @@
   - Learn a little Golang every day (2024)
     - [](./2024/Learn-a-little-golang-every-day-150-unset-goproxy.md)
     - [148-new-goland-supports-go-1.22](./2024/Learn-a-little-golang-every-day-148-new-goland-supports-go-1.22)
-    - [147-Go 1.22.0 is released](./2024/Learn-a-little-golang-everyday-147-go-1.22.md)
-    - [146-go-mod-downgrade](./2024/Learn-a-little-golang-everyday-146-go-mod-downgrade.md)
-    - [145-go-mock](./2024/Learn-a-little-golang-everyday-145-go-mock.md)
+    - [147-Go 1.22.0 is released](./2024/Learn-a-little-golang-every-day-147-go-1.22)
+    - [146-go-mod-downgrade](./2024/Learn-a-little-golang-every-day-146-go-mod-downgrade)
+    - [145-go-mock](./2024/Learn-a-little-golang-every-day-145-go-mock)
     - Archive By Year
       - 2023
         - [144-go-1.21.0](./2023/Learn-a-little-golang-everyday-144-go-1.21.0.md)
@@ -207,6 +207,7 @@
   - [Try-Blog-Theme-Jekyll](./2024/Try-Blog-Theme-Jekyll.md)
   - [Ruby-101](./2024/Ruby-101.md)
   - [Apply Malaysia Visa as a Chinese Citizen](./2023/apply-Malaysia-visa.md)
+  - [How to enable Google Analytics for your website?](./2024/how-to-enable-google-analytics-for-your-website.md)
 - [About](./README.md)
   - [:us:](./README.md)
   - [:cn:](./README_zh.md)
