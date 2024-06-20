@@ -2,6 +2,15 @@
 
 [Docsify](https://docsify.js.org/) is a magical documentation site generator.
 
+## Locally preview the site
+
+```shell
+➜  zhouzhengxi.com git:(master) docsify serve . --open
+
+Serving /Users/zhouzhengxi/Programming/golang/src/github.com/zzxwill/zhouzhengxi.com now.
+Listening at http://localhost:3000
+```
+
 ## Plugins
 
 These are the plugins which are used in this site.
@@ -37,8 +46,6 @@ These are the plugins which are used in this site.
       },
   ```
   <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
-
-
 
 ## Docsify tips
 - 为文章添加日期
