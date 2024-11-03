@@ -191,6 +191,8 @@
         - [2-类型转换](2020/study-golang-every-day-2.md)
         - [1-曾自信拿到任何一种语言我都可以直接上手解 bug](2020/study-golang-every-day-1.md)
 
+
+
   - LeetCode
     - [Palindrome Number](./2022/leetcode-palindrome-number.md)
     - [Palindrome Number (Solution 2)](./2022/leetcode-palindrome-number-2.md)
@@ -201,6 +203,8 @@
     - [S2I学习和思考](./2021/S2I学习和思考.md)
     - [学习Cloud-Native-Buildpacks](./2021/学习Cloud-Native-Buildpacks.md)
     - [学习OpenShift-source-to-image](./2021/学习OpenShift-source-to-image.md)
+  - [SG Private Hospitals Privacy Policy](./2024/Singapore-Private-Hospitals-Privacy-Policy.md)
+
 
 - Just have fun
   - [网络闲逛的一些有意思的东西](./2024/web-wondering.md)
